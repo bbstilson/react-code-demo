@@ -1,0 +1,8 @@
+export const REQUEST_REPO = 'REQUEST_REPO';
+export const RECEIVE_REPO = 'RECEIVE_REPO';
+export const REQUEST_FILE = 'REQUEST_FILE';
+export const RECEIVE_FILE = 'RECEIVE_FILE';
+export const FETCH_COMPLETE = 'FETCH_COMPLETE';
+export const POPULATE_NAVIGATION = 'POPULATE_NAVIGATION';
+export const NAVIGATE = 'NAVIGATE';
+export const ERROR = 'ERROR';
